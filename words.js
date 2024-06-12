@@ -1,94 +1,58 @@
 let words = [
     {
-        word: "addition",
-        hint: "The process of adding numbers"
+        word: "Beaker",
+        hint: "Commonly used for mixing and measuring liquids"
     },
     {
-        word: "meeting",
-        hint: "Event in which people come together"
+        word: "Pipette",
+        hint: "Enables transferring precise volumes of solutions"
     },
     {
-        word: "number",
-        hint: "Math symbol used for counting"
+        word: "Spectrophotometer",
+        hint: "Analyzes light absorption in chemical samples"
     },
     {
-        word: "exchange",
-        hint: "The act of trading"
+        word: "Centrifuge",
+        hint: "Rapidly separates components in biological research"
     },
     {
-        word: "canvas",
-        hint: "Piece of fabric for oil painting"
+        word: "Microscope",
+        hint: "Magnifies small objects for detailed examination"
     },
     {
-        word: "garden",
-        hint: "Space for planting flower and plant"
+        word: "Desiccator",
+        hint: "Keeps substances dry in controlled conditions"
     },
     {
-        word: "position",
-        hint: "Location of someone or something"
+        word: "Thermocycler",
+        hint: "Amplifies DNA through PCR"
     },
     {
-        word: "feather",
-        hint: "Hair like outer covering of bird"
+        word: "Spectrometer",
+        hint: "Analyzes light spectra in detail"
     },
     {
-        word: "comfort",
-        hint: "A pleasant feeling of relaxation"
+        word: "Autoclave",
+        hint: "Sterilizes equipment and media"
     },
     {
-        word: "tongue",
-        hint: "The muscular organ of mouth"
+        word: "Burette",
+        hint: "Measures precise volumes of liquids"
     },
     {
-        word: "expansion",
-        hint: "The process of increase or grow"
+        word: "Autosampler",
+        hint: "Automates sample injection in analytical instruments"
     },
     {
-        word: "country",
-        hint: "A politically identified region"
+        word: "Incubator",
+        hint: "Maintains controlled temperature for cell cultures"
     },
     {
-        word: "group",
-        hint: "A number of objects or persons"
+        word: "Spectrofluorometer",
+        hint: "Measures fluorescence emission spectra"
     },
     {
-        word: "taste",
-        hint: "Ability of tongue to detect flavour"
-    },
-    {
-        word: "store",
-        hint: "Large shop where goods are traded"
-    },
-    {
-        word: "field",
-        hint: "Area of land for farming activities"
-    },
-    {
-        word: "friend",
-        hint: "Person other than a family member"
-    },
-    {
-        word: "pocket",
-        hint: "A bag for carrying small items"
-    },
-    {
-        word: "needle",
-        hint: "A thin and sharp metal pin"
-    },
-    {
-        word: "expert",
-        hint: "Person with extensive knowledge"
-    },
-    {
-        word: "statement",
-        hint: "A declaration of something"
-    },
-    {
-        word: "second",
-        hint: "One-sixtieth of a minute"
-    },
-    {
-        word: "library",
-        hint: "Place containing collection of books"
+        word: "Ultracentrifuge",
+        hint: "Spins samples at high speeds for separation"
     },
 ]
